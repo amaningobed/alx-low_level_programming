@@ -3,8 +3,11 @@
 
 /**
  * struct dog - a dog's basic info
- * @name
- * @ Description: Longer description
+ * @name: First member
+ * @age: Second member
+ * @owner: Third member
+ *
+ * Description: Longer description
  */
 struct dog
 {
